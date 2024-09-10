@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\werne\\source\\repos\\DesignTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A42D2-8968-4E14-AFD2-A20542A84A3A}|DesignTest\\DesignTest.csproj|c:\\users\\werne\\source\\repos\\designtest\\designtest\\areas\\identity\\pages\\auth.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C92A42D2-8968-4E14-AFD2-A20542A84A3A}|DesignTest\\DesignTest.csproj|solutionrelative:designtest\\areas\\identity\\pages\\auth.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A42D2-8968-4E14-AFD2-A20542A84A3A}|DesignTest\\DesignTest.csproj|c:\\users\\werne\\source\\repos\\designtest\\designtest\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C92A42D2-8968-4E14-AFD2-A20542A84A3A}|DesignTest\\DesignTest.csproj|solutionrelative:designtest\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A42D2-8968-4E14-AFD2-A20542A84A3A}|DesignTest\\DesignTest.csproj|c:\\users\\werne\\source\\repos\\designtest\\designtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A42D2-8968-4E14-AFD2-A20542A84A3A}|DesignTest\\DesignTest.csproj|solutionrelative:designtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A42D2-8968-4E14-AFD2-A20542A84A3A}|DesignTest\\DesignTest.csproj|c:\\users\\werne\\source\\repos\\designtest\\designtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C92A42D2-8968-4E14-AFD2-A20542A84A3A}|DesignTest\\DesignTest.csproj|solutionrelative:designtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A42D2-8968-4E14-AFD2-A20542A84A3A}|DesignTest\\DesignTest.csproj|c:\\users\\werne\\source\\repos\\designtest\\designtest\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C92A42D2-8968-4E14-AFD2-A20542A84A3A}|DesignTest\\DesignTest.csproj|solutionrelative:designtest\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\werne\\source\\repos\\DesignTest\\DesignTest\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DesignTest\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\werne\\source\\repos\\DesignTest\\DesignTest\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "DesignTest\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T11:42:18.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auth.cshtml",
+              "DocumentMoniker": "C:\\Users\\werne\\source\\repos\\DesignTest\\DesignTest\\Areas\\Identity\\Pages\\Auth.cshtml",
+              "RelativeDocumentMoniker": "DesignTest\\Areas\\Identity\\Pages\\Auth.cshtml",
+              "ToolTip": "C:\\Users\\werne\\source\\repos\\DesignTest\\DesignTest\\Areas\\Identity\\Pages\\Auth.cshtml",
+              "RelativeToolTip": "DesignTest\\Areas\\Identity\\Pages\\Auth.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T11:29:52.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\werne\\source\\repos\\DesignTest\\DesignTest\\Program.cs",
+              "RelativeDocumentMoniker": "DesignTest\\Program.cs",
+              "ToolTip": "C:\\Users\\werne\\source\\repos\\DesignTest\\DesignTest\\Program.cs",
+              "RelativeToolTip": "DesignTest\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:27:24.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\werne\\source\\repos\\DesignTest\\DesignTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DesignTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\werne\\source\\repos\\DesignTest\\DesignTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DesignTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T11:26:39.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\werne\\source\\repos\\DesignTest\\DesignTest\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "DesignTest\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\werne\\source\\repos\\DesignTest\\DesignTest\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "DesignTest\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-30T11:25:33.902Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
