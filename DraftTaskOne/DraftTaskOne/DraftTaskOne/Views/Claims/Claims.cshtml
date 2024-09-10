@@ -1,0 +1,107 @@
+﻿@model DraftTaskOne.Models.Claims
+  
+
+@{
+    ViewData["Title"] = "Submit Claim";
+}
+<h2> Submit Claim</h2>
+<form asp-action="SubmitClaim" method="post" enctype="multipart/form-data" id="claimForm">
+    <div class="form-group">
+       <label asp-for="LeturerID"></label>
+       <input asp-for="LeturerID" class="form-control"/>
+       <span asp-validation-for="LeturerID" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName" class="form-control" />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" class="form-control" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ClaimPeriodStart"></label>
+        <input asp-for="ClaimPeriodStart" type ="date" class="form-control" />
+        <span asp-validation-for="ClaimPeriodStart" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ClaimPeriodEnd"></label>
+        <input asp-for="ClaimPeriodEnd" type="date" class="form-control" />
+        <span asp-validation-for="ClaimPeriodEnd" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="HoursWorked"></label>
+        <input asp-for="HoursWorked" class="form-control" />
+        <span asp-validation-for="HoursWorked" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="RatePerHour"></label>
+        <input asp-for="RatePerHour" class="form-control"  id="hoursWorked"/>
+        <span asp-validation-for="RatePerHour" class="text-danger"></span>
+    </div>
+ @*    <div class="form-group">
+        <label asp-for="TotalAmount"></label>
+        <input asp-for="TotalAmount" class="form-control" />
+        <span asp-validation-for="TotalAmount" class="text-danger"></span>
+    </div> *@
+
+    <div class="form-group">
+        <label asp-for="DescriptionOfWork"></label>
+        <input asp-for="DescriptionOfWork" class="form-control" />
+        <span asp-validation-for="DescriptionOfWork"></span>
+    </div>
+
+    <button type="submit" class="btn-primary">Submit</button>
+</form>
+@section Scripts {
+
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css"
+    rel="stylesheet" />
+
+    <script>
+
+        $(document).ready(function () {
+
+            $('#claimForm').on('submit', function (event) {
+
+                event.preventDefault();
+
+                var hoursWorked = parseFloat($('#hoursWorked').val()) || 0;
+
+                var ratePerHour = parseFloat($('#ratePerHour').val()) || 0;
+
+                var totalAmount = hoursWorked * ratePerHour;
+
+                toastr.success('Total Amount Due: ' + totalAmount.toFixed(2));
+
+
+
+                var form = this;
+
+                setTimeout(function () {
+
+                    form.submit();
+
+                }, 5000); // Delay submission to allow Toastr to show
+
+            });
+
+        });
+
+    </script>
+
+}

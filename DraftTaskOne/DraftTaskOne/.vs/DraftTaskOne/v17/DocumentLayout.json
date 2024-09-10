@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|c:\\users\\werne\\onedrive\\desktop\\drafttaskone\\drafttaskone\\drafttaskone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|solutionrelative:drafttaskone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|c:\\users\\werne\\onedrive\\desktop\\drafttaskone\\drafttaskone\\drafttaskone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|solutionrelative:drafttaskone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|c:\\users\\werne\\onedrive\\desktop\\drafttaskone\\drafttaskone\\drafttaskone\\migrations\\20240802121121_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|solutionrelative:drafttaskone\\migrations\\20240802121121_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|c:\\users\\werne\\onedrive\\desktop\\drafttaskone\\drafttaskone\\drafttaskone\\migrations\\20240806124534_secondmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|solutionrelative:drafttaskone\\migrations\\20240806124534_secondmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|c:\\users\\werne\\onedrive\\desktop\\drafttaskone\\drafttaskone\\drafttaskone\\models\\claims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|solutionrelative:drafttaskone\\models\\claims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|c:\\users\\werne\\onedrive\\desktop\\drafttaskone\\drafttaskone\\drafttaskone\\views\\claims\\claims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|solutionrelative:drafttaskone\\views\\claims\\claims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|c:\\users\\werne\\onedrive\\desktop\\drafttaskone\\drafttaskone\\drafttaskone\\areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|solutionrelative:drafttaskone\\areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|c:\\users\\werne\\onedrive\\desktop\\drafttaskone\\drafttaskone\\drafttaskone\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|solutionrelative:drafttaskone\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|c:\\users\\werne\\onedrive\\desktop\\drafttaskone\\drafttaskone\\drafttaskone\\views\\claims\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|solutionrelative:drafttaskone\\views\\claims\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|c:\\users\\werne\\onedrive\\desktop\\drafttaskone\\drafttaskone\\drafttaskone\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|solutionrelative:drafttaskone\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|c:\\users\\werne\\onedrive\\desktop\\drafttaskone\\drafttaskone\\drafttaskone\\drafttaskone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16289DFD-8FF4-4817-AB9E-28112DF529D8}|DraftTaskOne\\DraftTaskOne.csproj|solutionrelative:drafttaskone\\drafttaskone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Views\\Claims\\List.cshtml",
+              "RelativeDocumentMoniker": "DraftTaskOne\\Views\\Claims\\List.cshtml",
+              "ToolTip": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Views\\Claims\\List.cshtml",
+              "RelativeToolTip": "DraftTaskOne\\Views\\Claims\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T23:11:15.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240806124534_secondMig.cs",
+              "DocumentMoniker": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Migrations\\20240806124534_secondMig.cs",
+              "RelativeDocumentMoniker": "DraftTaskOne\\Migrations\\20240806124534_secondMig.cs",
+              "ToolTip": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Migrations\\20240806124534_secondMig.cs",
+              "RelativeToolTip": "DraftTaskOne\\Migrations\\20240806124534_secondMig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:11:39.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClaimsController.cs",
+              "DocumentMoniker": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Controllers\\ClaimsController.cs",
+              "RelativeDocumentMoniker": "DraftTaskOne\\Controllers\\ClaimsController.cs",
+              "ToolTip": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Controllers\\ClaimsController.cs",
+              "RelativeToolTip": "DraftTaskOne\\Controllers\\ClaimsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:11:39.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Claims.cshtml",
+              "DocumentMoniker": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Views\\Claims\\Claims.cshtml",
+              "RelativeDocumentMoniker": "DraftTaskOne\\Views\\Claims\\Claims.cshtml",
+              "ToolTip": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Views\\Claims\\Claims.cshtml",
+              "RelativeToolTip": "DraftTaskOne\\Views\\Claims\\Claims.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAGQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T22:11:39.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Claims.cs",
+              "DocumentMoniker": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Models\\Claims.cs",
+              "RelativeDocumentMoniker": "DraftTaskOne\\Models\\Claims.cs",
+              "ToolTip": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Models\\Claims.cs",
+              "RelativeToolTip": "DraftTaskOne\\Models\\Claims.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:11:39.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DraftTaskOne\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DraftTaskOne\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:11:39.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240802121121_FirstMig.cs",
+              "DocumentMoniker": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Migrations\\20240802121121_FirstMig.cs",
+              "RelativeDocumentMoniker": "DraftTaskOne\\Migrations\\20240802121121_FirstMig.cs",
+              "ToolTip": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Migrations\\20240802121121_FirstMig.cs",
+              "RelativeToolTip": "DraftTaskOne\\Migrations\\20240802121121_FirstMig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:11:39.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "DraftTaskOne\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "DraftTaskOne\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-07T22:11:39.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DraftTaskOne.csproj",
+              "DocumentMoniker": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne.csproj",
+              "RelativeDocumentMoniker": "DraftTaskOne\\DraftTaskOne.csproj",
+              "ToolTip": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne.csproj",
+              "RelativeToolTip": "DraftTaskOne\\DraftTaskOne.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-07T22:11:39.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DraftTaskOne\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DraftTaskOne\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T22:11:39.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Program.cs",
+              "RelativeDocumentMoniker": "DraftTaskOne\\Program.cs",
+              "ToolTip": "C:\\Users\\werne\\OneDrive\\Desktop\\DraftTaskOne\\DraftTaskOne\\DraftTaskOne\\Program.cs",
+              "RelativeToolTip": "DraftTaskOne\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:11:39.629Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
